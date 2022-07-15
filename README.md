@@ -27,3 +27,4 @@ Specs:
 - Ubuntu 20.04 (WSL distro)
 - VSCode
 - kind for single node k8s cluster
+- [mage](https://magefile.org/) instead of make. Exploring this tool as well
